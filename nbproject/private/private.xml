@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IChiTietSPRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/KhachHang.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/KhachHangRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/INSXRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/GioHangChiTiet.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/HoaDonChiTiet.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/view/ViewChiTietSP.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/view/ViewChucNangBanHang.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/HoaDonRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/GioHangRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/ChiTietSPRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/CuaHang.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/SanPham.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/MauSac.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IGioHangChiTiet.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/NhanVienRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/MauSacRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IMauSacRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/DongSPRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/ChiTietSP.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/NSX.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/HoaDon.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Ulits/DBConnect.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IGioHangRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/INhanVienRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IDongSPRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/view/ChaoJDiaLog.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IHoaDonRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/CuaHangRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/NSXRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IHoaDonChiTietRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/ChucVu.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/NhanVien.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/GioHang.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IKhachHangRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Model/DongSP.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/ISanPhamRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/HoaDonChiTietRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/ICuaHangRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/SanPhamRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Interface/IChucVuRepository.java</file>
+            <file>file:/C:/Users/vtdm8/Documents/NetBeansProjects/Duan1/src/Repository/ChucVuRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
